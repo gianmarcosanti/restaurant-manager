@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0"?><!-- GIANMARCO SANTI 1143544-->
 <!DOCTYPE module PUBLIC "-//Puppy Crawl//DTD Check Configuration 1.2//EN"
 		"http://www.puppycrawl.com/dtds/configuration_1_2.dtd">
 
@@ -32,7 +32,7 @@
 	</module>
 
 	<module name="Header">
-		<property name="header" value="GIANMARCO SANTI 1143544" />
-		<property name="fileExtensions" value="md" />
+		<property name="header" value="//GIANMARCO SANTI 1143544" />
+		<property name="fileExtensions" value="java" />
 	</module>
 </module>
