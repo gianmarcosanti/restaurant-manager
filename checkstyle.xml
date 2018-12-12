@@ -29,6 +29,7 @@
 	<module name="FileTabCharacter">
 		<property name="eachLine" value="true" />
 		<property name="fileExtensions" value="java" />
+
 	</module>
 
 	<module name="Header">
